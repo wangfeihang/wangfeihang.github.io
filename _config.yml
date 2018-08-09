@@ -1,7 +1,7 @@
 # Site settings
 title: SakuraMomoko Blog
 SEOTitle: SakuraMomoko的博客 | SakuraMomoko Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/head_img.jpg
 email: 
 description: "welcome"
 keyword: "SakuraMomoko Blog, SakuraMomoko的博客, SakuraMomoko, Android, Kotlin"
@@ -82,9 +82,3 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-
-
-# Friends
-friends: [
-
-]
